@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuDeCarte", "JeuDeCarte\JeuDeCarte.csproj", "{89A59631-3899-4B72-9BA8-D6C9F4849ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuDeCarte.UnitTests", "JeuDeCarte.UnitTests\JeuDeCarte.UnitTests.csproj", "{973CD5A8-3864-46E9-894A-34F87F3EEF47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A59631-3899-4B72-9BA8-D6C9F4849ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A59631-3899-4B72-9BA8-D6C9F4849ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A59631-3899-4B72-9BA8-D6C9F4849ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A59631-3899-4B72-9BA8-D6C9F4849ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973CD5A8-3864-46E9-894A-34F87F3EEF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973CD5A8-3864-46E9-894A-34F87F3EEF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973CD5A8-3864-46E9-894A-34F87F3EEF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973CD5A8-3864-46E9-894A-34F87F3EEF47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D67447C-AA46-4D16-BD0A-A29A0B6476E7}
+	EndGlobalSection
+EndGlobal
